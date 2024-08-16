@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive `README.md` template for your project, covering installation, usage, debugging, and platform-specific instructions. You can adapt the details as needed based on your specific application and requirements.
-
----
-
 # Photo Organizer
 
 A powerful and user-friendly tool to organize your photos by extracting EXIF data, renaming files based on dates, and sorting them into structured directories.

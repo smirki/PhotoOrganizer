@@ -1,0 +1,6 @@
+# Ignore virtual environment directory
+.venv/
+
+# Ignore exiftool files
+exiftool_files/
+exiftool.exe
