@@ -183,5 +183,3 @@ If you'd like to contribute to the development of this project:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to modify this template to better fit your project's needs and structure!
