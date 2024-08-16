@@ -2,6 +2,8 @@
 
 A powerful and user-friendly tool to organize your photos by extracting EXIF data, renaming files based on dates, and sorting them into structured directories.
 
+![Photo Organizer](photo_organizer_image.png)
+
 ## Table of Contents
 
 1. [Installation](#installation)
